@@ -1,10 +1,10 @@
 Format is tab separated export settings.
 Name                          	Value
 WindowPosition	700+0
-Open File for Export	
+Open File for Export	/Users/andrewplumb/Projects/clothbot/github/clothbot/makerbot/tests/bridges/bridges.stl
 Activate Export	True
 Also Send Output To:	
-Delete Comments	True
+Delete Comments	False
 Do Not Change Output	True
 binary_16_byte	False
 gcode_step	False
